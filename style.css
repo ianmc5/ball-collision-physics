@@ -1,0 +1,14 @@
+body {
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+#canvas1 
+  {
+    width: 500;
+    height: 500;
+    border: 2px solid #000000;
+    background-color: #b2cccc;
+  }
